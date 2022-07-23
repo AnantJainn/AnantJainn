@@ -8,6 +8,37 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
 
 ## Coding Skills
 
+<p>
+  <img src ="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" height="70px"/>
+</p>
+
+## Other Skills
+
+- **Languages**
+   - Hindi
+   - English
+-**Soft Skills**
+   -Coding
+   Logical Reasoning
+
+
+## Skills i am learning
+- Mongo DB
+- Node.js
+- API
+
+## Projects
+- Disney+Hotstar Clone
+- Basic banking system
+
+## Contact Me
+[<img src ="https://flyclipart.com/github-png-icon-free-download-github-logo-png-813498">](https://github.com//AnantJainn)
+
+
+
+
+
+
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
