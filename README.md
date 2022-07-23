@@ -1,4 +1,14 @@
-- 👋 Hi, I’m @AnantJainn
+### 👋 Hi, I’m @AnantJainn
+I am **Anant Jain**
+# About Me
+
+I am a first year student at USAR . I am a front-end developer.
+
+Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
+
+## Coding Skills
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
