@@ -183,6 +183,12 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bindian0509&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Anant's GitHub Contributions Graph"/>
 </a>
 </div>
+ <div align="center">
+  <a href="https://github.com/AnantJainn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelhp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<br>
 
 ## Projects
 - Disney+Hotstar Clone
