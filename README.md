@@ -61,6 +61,10 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
+ <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://camo.githubusercontent.com/8552f38715af0ea9f364801b055f7a2448812b49075860983d53a81414349623/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6578742e6a7326636f6c6f723d303030303030266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d"
+      alt="react"/> 
+  </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/> 
   <a href="https://jquery.com/" target="_blank">
@@ -165,41 +169,11 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
  
 </div>
 
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/AnantJainn">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
-</a>
-<br><br>
-<a href="https://github.com/AnantJainn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
-</a>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/AnantJainn">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
-</a>
-<br><br>
-<a href="https://github.com/AnantJainn">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bindian0509&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Anant's GitHub Contributions Graph"/>
-</a>
-</div>
- <div align="center">
-  <a href="https://github.com/AnantJainn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelhp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelhp&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br>
 
 ## Projects
 - Disney+Hotstar Clone
 - Basic banking system
-
-## Contact Me
-[<img src ="https://flyclipart.com/github-png-icon-free-download-github-logo-png-813498">](https://github.com//AnantJainn)
-
-
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnantJainn&theme=react-dark)](https://github.com/AnantJainn/github-readme-activity-graph)
-
 
 
 
