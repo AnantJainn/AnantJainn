@@ -198,7 +198,7 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
 [<img src ="https://flyclipart.com/github-png-icon-free-download-github-logo-png-813498">](https://github.com//AnantJainn)
 
 
-
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnantJainn&theme=react-dark)](https://github.com/AnantJainn/github-readme-activity-graph)
 
 
 
