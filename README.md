@@ -125,9 +125,6 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"/>
   </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
