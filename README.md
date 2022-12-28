@@ -169,7 +169,7 @@ Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
  
 </div>
 
-
+[![Anant's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnantJainn)](https://github.com/AnantJainn/github-readme-stats)
 
 ## Projects
 - Disney+Hotstar Clone
