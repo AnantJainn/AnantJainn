@@ -3,11 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Anant</h1>
 <h3>About Me :</h3>  
  <p>
- 👩‍🎓  Second year AI&DS student at USAR, GGSIPU.
-<br>🐱 I'm 19 y/o, go by he/him pronouns.
-<br>💫 I’m a Full stack developer currently learning Web3 and AI/ML.
+ 👩‍🎓  Pre-Final year Artificial Intelligence & Data Science student at USAR, GGSIPU.
+<br>🐱 I'm 20 y/o, go by he/him pronouns.
+<br>💫 I’m a Full stack Blockchain developer currently exploring HyperLedger and AI/ML.
 <br>⭐ Besides all that I love to play games and listen to music. 
-<br>👩‍💻 Constantly learning. I'm very interested in Open Source!
+<br>👩‍💻 Constantly learning. 
 
 Follow me on [Instagram](https://instagram.com/anant__jainn?igshid=YmMyMTA2M2Y=)
 
