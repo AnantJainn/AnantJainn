@@ -1,5 +1,4 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-### 👋 Hi, I’m @AnantJainn
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,&nbsp;I'm Anant</h1>
 <h3>About Me :</h3>  
  <p>
